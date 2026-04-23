@@ -1,4 +1,4 @@
-# CVPR 2026 Oral Papers — Index with arXiv & Code Links
+# CVPR 2026 Oral Papers Collection
 
 A community-maintained index of **141** CVPR 2026 Oral papers, organized
 by research topic, with direct links to the virtual conference page, arXiv
@@ -35,8 +35,8 @@ preprints and code repositories where available.
 
 | Path | Purpose |
 |---|---|
-| `data/cvpr2026_orals.json` | Full structured records (title, authors, abstract, arxiv, github, related) |
-| `data/cvpr2026_orals.csv`  | Flat spreadsheet of the same data |
+| `cvpr2026_orals.json` | Full structured records (title, authors, abstract, arxiv, github, related) |
+| `cvpr2026_orals.csv`  | Flat spreadsheet of the same data |
 
 ## Contributing
 
