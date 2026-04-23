@@ -1,4 +1,4 @@
-# CVPR 2026 Oral 论文索引（含 arXiv / 代码链接）
+# CVPR 2026 Oral 论文收集（含 arXiv / 代码链接）
 
 按研究方向分类整理的 **141** 篇 CVPR 2026 Oral 论文，附 CVPR 虚拟会场、
 arXiv 预印本和代码仓库直链。
@@ -34,8 +34,8 @@ arXiv 预印本和代码仓库直链。
 
 | 路径 | 用途 |
 |---|---|
-| `data/cvpr2026_orals.json` | 结构化完整记录（标题、作者、摘要、arxiv、github、相关链接） |
-| `data/cvpr2026_orals.csv`  | 同上的扁平表 |
+| `cvpr2026_orals.json` | 结构化完整记录（标题、作者、摘要、arxiv、github、相关链接） |
+| `cvpr2026_orals.csv`  | 同上的扁平表 |
 
 ## 贡献
 
